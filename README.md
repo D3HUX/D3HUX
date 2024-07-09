@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a student specializing in robotics and 3d modeling.
 <!--
 **D3HUX/D3HUX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
